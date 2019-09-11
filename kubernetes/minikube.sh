@@ -7,3 +7,5 @@ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/miniku
   && chmod +x minikube
 
 sudo install minikube /usr/local/bin
+
+rm -rf minikube
