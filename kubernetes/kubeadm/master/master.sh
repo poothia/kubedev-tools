@@ -6,3 +6,6 @@ EOF
 sudo apt-get update
 sudo apt-get install -y kubelet kubeadm kubectl
 sudo apt-mark hold kubelet kubeadm kubectl
+
+
+echo "follow this link to create cluster : https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm"
