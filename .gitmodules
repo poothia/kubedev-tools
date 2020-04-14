@@ -1,3 +1,6 @@
 [submodule "Docs"]
 	path = Docs
 	url = https://github.com/poothia/Docs
+[submodule "checkmail"]
+	path = checkmail
+	url = https://github.com/poothia/checkmail
