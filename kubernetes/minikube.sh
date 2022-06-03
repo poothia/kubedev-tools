@@ -11,4 +11,4 @@ sudo install minikube /usr/local/bin
 
 rm -rf minikube
 
-minikube start --driver=none
+sudo minikube start --driver=none
